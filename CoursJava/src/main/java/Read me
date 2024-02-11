@@ -1,0 +1,8 @@
+Dans se cours, je parle de se qu'il savoir pour coder en java ( les bases de la programmation en java )
+
+Dans le fichier Main, je declare des variable les initialise et les affiche, en suite je parle des constante.
+Dans le fichier Main, nous parlons aussi des condition, des fonctions, de la portee des variables, des boucles
+des tableaus puis des liste.
+
+Dans le fichier autres je cree une class Auteur, je declare des variables d'instance, un constructeur
+et je cree une methode, et dans le fichier Main je cree 2 instance de la class Auteur
